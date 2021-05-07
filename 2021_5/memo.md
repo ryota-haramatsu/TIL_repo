@@ -1,4 +1,30 @@
 # 2021年5月
+## 2021/5/7(金)
+### その日やったこと
+- 追加機能マニュアル作成
+- 機能修正
+- KPI slack連携
+
+### 明日すること
+- 休み
+
+### 学んだことメモ
+- [なぜ「できない人」ほど、人に聞けないのか。 | Books&Apps](https://blog.tinect.jp/?p=64018)
+- [「進捗どうですか？」より2015倍捗る「困ってますか？」 - Qiita](https://qiita.com/tatesuke/items/fd5483be1b72727d3d34)
+- [新人の方によく展開している有益な情報 - Qiita](https://qiita.com/kazuo_reve/items/d1a3f0ee48e24bba38f1)
+- [CookieとWebStorageとSessionについてのまとめ - Qiita](https://qiita.com/pipiox/items/95554673ba3b078ac112)
+- 【JavaScript】Cookie , localStorage, sessionStorageの違い https://qiita.com/terufumi1122/items/76bafb9eed7cfc77b798
+Cookie、WebStrage（ローカルストレージ）、Sessionの違いについて確認
+- ステートレスとは https://qiita.com/mtakehara21/items/efcbbc3ba58a62c10eb6
+HTTPプロトコルはステートレスである
+→ステートレスだと情報の保持ができないので不便
+→解決するためにcookieを使用し、レスポンスの時にブラウザ側に情報を保存させることができ、状態を保持できる
+→Web Storageとは何が違うの？
+→クライアント側で保有できる点は共通
+→Web Storageの方が取り扱えるデータ量が多く、JSによる制御が簡単
+→Web StorageはLocal StorageとSession Storageがあり、データの保有期間に違いがある
+https://www.granfairs.com/blog/staff/local-storage-01
+
 ## 2021/5/6(木)
 ### その日やったこと
 - システムコード修正
