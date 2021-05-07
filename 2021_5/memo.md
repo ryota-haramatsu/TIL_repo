@@ -16,13 +16,21 @@
 - 【JavaScript】Cookie , localStorage, sessionStorageの違い https://qiita.com/terufumi1122/items/76bafb9eed7cfc77b798
 Cookie、WebStrage（ローカルストレージ）、Sessionの違いについて確認
 - ステートレスとは https://qiita.com/mtakehara21/items/efcbbc3ba58a62c10eb6
+
 HTTPプロトコルはステートレスである
+
 →ステートレスだと情報の保持ができないので不便
+
 →解決するためにcookieを使用し、レスポンスの時にブラウザ側に情報を保存させることができ、状態を保持できる
+
 →Web Storageとは何が違うの？
+
 →クライアント側で保有できる点は共通
+
 →Web Storageの方が取り扱えるデータ量が多く、JSによる制御が簡単
+
 →Web StorageはLocal StorageとSession Storageがあり、データの保有期間に違いがある
+
 https://www.granfairs.com/blog/staff/local-storage-01
 
 ## 2021/5/6(木)
