@@ -1,4 +1,21 @@
 # 2021年5月
+## 2021/5/10(月)
+### その日やったこと
+- 追加機能マニュアル作成
+- バグ修正
+- テスト
+
+### 明日すること
+- バグ修正
+- テスト
+
+### 学んだことメモ
+- [【PHP】比較演算子「==」の罠 - Qiita](https://qiita.com/hiro_nr825/items/225e3dc5b8aaa65a6cdc)
+- [【PHP8.0】非厳密な比較演算子`==`の挙動が今さら変更になる - Qiita](https://qiita.com/rana_kualu/items/82cc8295d2102d14b88a)
+- [Laravelの構成概念 第1回 ライフサイクル編 - Qiita](https://qiita.com/ucan-lab/items/5e0a4584c5321a502da7)
+- [Eagerロード | とものブログ](https://se-tomo.com/2018/10/08/laravel%E3%81%AEeager%E3%83%AD%E3%83%BC%E3%83%89%E3%81%A8%E3%81%AF/)
+
+
 ## 2021/5/7(金)
 ### その日やったこと
 - 追加機能マニュアル作成
