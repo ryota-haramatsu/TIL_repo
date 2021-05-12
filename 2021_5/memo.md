@@ -1,4 +1,21 @@
 # 2021年5月
+## 2021/5/11(火)
+### その日やったこと
+- MTG
+- コードリファクタ
+- バグ修正
+
+### 明日すること
+- コードリファクタ
+- バグ修正
+
+### 学んだことメモ
+- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
+- [コンピュータサイエンスの知識を保持する](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+- [(2)Big O Notation - JS Algorithms and Data Structures Masterclass - Qiita](https://qiita.com/yuta-38/items/0c4cba2b158858091bca)
+- [[初心者向け] プログラムの計算量を求める方法 - Qiita](https://qiita.com/cotrpepe/items/1f4c38cc9d3e3a5f5e9c)
+
+
 ## 2021/5/10(月)
 ### その日やったこと
 - 追加機能マニュアル作成
