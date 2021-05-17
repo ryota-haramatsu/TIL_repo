@@ -1,4 +1,18 @@
 # 2021年5月
+## 2021/5/17(月)
+### その日やったこと
+- バグ修正
+- MT
+- 開発環境設定の補助
+
+### 明日すること
+- 新規開発部分のテスト
+
+### 学んだことメモ
+- [composerとは - Qiita](https://qiita.com/atwata/items/d6f1cf95ce96ebe58010)
+- https://qiita.com/SanQ/items/99ffdf5b39dc88f2b8de
+
+
 ## 2021/5/13(木)
 ### その日やったこと
 - コードリファクタ
