@@ -1,4 +1,23 @@
 # 2021年5月
+## 2021/5/18(火)
+### その日やったこと
+- バグ洗い出し&修正
+
+### 明日すること
+- 新規開発部分のテスト
+
+### 学んだことメモ
+- [JSON-RPC1.0と2.0 - Kekeの日記](https://www.1915keke.com/entry/2017/12/10/013955#:~:text=JSONRPC2.0%E3%81%A8%E3%81%AF,%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE%E3%81%A7%E3%81%99%E3%80%82)
+- [Json rpc 2_0](https://www.slideshare.net/aodag/json-rpc-20)
+- [WebSocketについて調べてみた。 - Qiita](https://qiita.com/south37/items/6f92d4268fe676347160)
+- [Goのgoroutine, channelをちょっと攻略！ - Qiita](https://qiita.com/taigamikami/items/fc798cdd6a4eaf9a7d5e)
+- [Type Switch - えがわたにっき](http://egawata.hatenablog.com/entry/2017/01/02/214240)
+- [GoのMarshal/Unmarshalの基本的な使い方とプライベートフィールドを持つ構造体での利用方法 : ビジネスとIT活用に役立つ情報](https://www.asobou.co.jp/blog/web/marshal-unmarshal)
+- [[Laravel] Eloquentでのサブクエリの有効な使い方 | Xzxzyzyz](https://xzxzyzyz.com/2018/11/laravel-using-subquery/)
+- [Gitを知りたいすべてのエンジニアに捧ぐ。。。 - Qiita](https://qiita.com/ren0826jam/items/cf766a6fd43049b3cff4)
+
+
+
 ## 2021/5/17(月)
 ### その日やったこと
 - バグ修正
